@@ -1,0 +1,104 @@
+body{
+    background-color: black;
+    color: white;
+}
+.outerbox{
+    display: grid;
+    justify-content: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.profile{
+   background-color: rgb(255, 255, 255,.1);
+   width: 400px;
+   display: grid;
+   align-items: center;
+   justify-content: center;
+   padding: 20px;
+   border-radius: 10px;
+
+}
+img{
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: red;
+    margin-bottom: 25px;
+    outline: none;
+    object-fit: cover;
+
+}
+h2{
+    margin: auto;
+    color: rgb(255, 255, 255);
+}
+h4{
+    padding: 10px;
+    margin: auto;
+    color: yellow;
+}
+p{
+margin-left: 30px;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+
+}
+
+.git{
+    display: grid;
+    background-color: rgb(255, 255, 255,.1);
+    color:white;
+    margin: 10px;
+    font-weight: 900;
+    padding: 10px;
+    justify-content: center;
+    border-radius: 5px;
+    width: 100%;
+}
+.front{
+    display: grid;
+    background-color: rgb(255, 255, 255,.1);
+    color:white;
+    margin: 10px;
+    font-weight: 900;
+    padding: 10px;
+    justify-content: center;
+    border-radius: 5px;
+    width: 100%;
+}
+.Twitter{
+    display: grid;
+    background-color: rgb(255, 255, 255,.1);
+    color:white;
+    margin: 10px;
+    font-weight: 900;
+    padding: 10px;
+    justify-content: center;
+    border-radius: 5px;
+    width: 100%;
+}
+.ig{
+    display: grid;
+    background-color: rgb(255, 255, 255,.1);
+    color:white;
+    margin: 10px;
+    font-weight: 900;
+    padding: 10px;
+    justify-content: center;
+    border-radius: 5px;
+    width: 100%;
+}
+.link{
+    display: grid;
+    background-color: rgb(255, 255, 255,.1);
+    color:white;
+    margin: 10px;
+    font-weight: 900;
+    padding: 10px;
+    justify-content: center;
+    border-radius: 5px;
+    width: 100%;
+
+}
